@@ -1,0 +1,13 @@
+train: D:\ProjectYOLOv8\pythonProject6\customised data\train\images
+val: D:\ProjectYOLOv8\pythonProject6\customised data\valid\images
+test: D:\ProjectYOLOv8\pythonProject6\customised data\test\images
+
+nc: 9
+names: ['Autorickshaw', 'Bike', 'Bus', 'Car', 'Traveller', 'Truck', 'rickshaw', 'tempo', 'tractor']
+
+roboflow:
+  workspace: barasha
+  project: vehicle-detcting-and-counting
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/barasha/vehicle-detcting-and-counting/dataset/1

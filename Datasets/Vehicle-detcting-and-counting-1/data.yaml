@@ -1,0 +1,20 @@
+names:
+- Autorickshaw
+- Bike
+- Bus
+- Car
+- Traveller
+- Truck
+- rickshaw
+- tempo
+- tractor
+nc: 9
+roboflow:
+  license: CC BY 4.0
+  project: vehicle-detcting-and-counting
+  url: https://universe.roboflow.com/barasha/vehicle-detcting-and-counting/dataset/1
+  version: 1
+  workspace: barasha
+test: /content/drive/MyDrive/Datasets/Vehicle-detcting-and-counting-1/test/images
+train: /content/drive/MyDrive/Datasets/Vehicle-detcting-and-counting-1/train/images
+val: /content/drive/MyDrive/Datasets/Vehicle-detcting-and-counting-1/valid/images

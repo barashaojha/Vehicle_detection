@@ -1,0 +1,18 @@
+path: ../datasets/roboflow
+
+
+Autorickshaw
+Bike
+Bus
+Car
+Truck
+Traveller
+rickshaw
+tempo
+tractor
+
+nc: 9
+
+train: \pythonProject6\customised data\test\images
+val:   \pythonProject6\customised data\valid\images
+test:  \pythonProject6\customised data\test\images
