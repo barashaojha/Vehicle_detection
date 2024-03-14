@@ -5,7 +5,7 @@ from tracker import *
 import cvzone
 import numpy as np
 
-
+#Model creation
 model = YOLO('Datasets/runs/detect/train/weights/best.pt')
 
 
